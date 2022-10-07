@@ -157,3 +157,4 @@ struct Key {
 ```
 
 算法见代码
+可使用现成的generational_arena包
